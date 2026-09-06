@@ -22,4 +22,4 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$
 
 [Iiquidsmooth](https://github.com/Iiquidsmooth) is pt's Theobaldthebird! (MCYT)
 
-[Chemicalshot](https://github.com/Chemicalshot) is pt's Facty Boy!(MCYT)
+[Chemicalshot](https://github.com/Chemicalshot) is pt's Facty Boy!(Fact Attack Adventures)
